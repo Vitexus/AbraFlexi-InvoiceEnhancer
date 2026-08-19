@@ -1,4 +1,4 @@
-# WARP.md - Working AI Reference for AbraFlexi-InvoiceEnhancer
+# AGENTS.md - Working AI Reference for AbraFlexi-InvoiceEnhancer
 
 ## Project Overview
 **Type**: PHP project (Composer `type: project`), packaged as `abraflexi-enhancer` Debian package
